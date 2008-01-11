@@ -1,0 +1,8 @@
+{
+  "vendor" = "David Glasser"
+  "module_build" = "1"
+  "vendor.url" = "http://www.davidglasser.net/"
+  "module_name" = "What's New?"
+  "module_desc" = "<html><body><title>What's New?</title><p>A home page view listing the most recent transactions entered.</p></body></html>"
+  "desc" = "A home page view listing the most recent transactions entered."
+}
